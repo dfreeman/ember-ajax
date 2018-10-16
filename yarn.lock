@@ -179,9 +179,9 @@
   version "4.1.4"
   resolved "https://registry.yarnpkg.com/@types/chai/-/chai-4.1.4.tgz#5ca073b330d90b4066d6ce18f60d57f2084ce8ca"
 
-"@types/ember-data@^3.1.1":
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/@types/ember-data/-/ember-data-3.1.1.tgz#58037d22e133224bad2eb2f01f4795d687f2986c"
+"@types/ember-data@^3.1.2":
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/@types/ember-data/-/ember-data-3.1.2.tgz#f463ef8062461381daf3ed7b1e9369b037f98d8d"
   dependencies:
     "@types/ember" "*"
     "@types/rsvp" "*"
